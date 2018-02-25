@@ -1,1 +1,2 @@
 # Part.-1-Slopegraph--Drug-Related-Emergency-Department-Visits-in-the-US-2004-to-2011
+# This is the code used to create a slopegraph showing the prevalence of certain drug related emergency department visits from 2004 to 2011.  As one can see in this graph, "Alcohol in combination" is the most common type of drug related emergency department visit.  However, by 2011, it is closely followed by Opioid related visits.  In fact, from 2004 to 2011, opioid related visits more than doubled.
